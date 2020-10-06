@@ -1,4 +1,4 @@
-# sudharsh_project4
+# Vue Registration and Login Page
 
 ## Project setup
 ```
